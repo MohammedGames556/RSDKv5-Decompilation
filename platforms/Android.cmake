@@ -1,7 +1,7 @@
 add_library(RetroEngine SHARED ${RETRO_FILES} dependencies/android/androidHelpers.cpp)
 
 set(DEP_PATH android)
-set(RETRO_SUBSYSTEM "OGL")
+set(RETRO_SUBSYSTEM "Binary_Gamer556")
 set(RETRO_OUTPUT_NAME "RetroEngine")
 
 set(COMPILE_OGG TRUE)
